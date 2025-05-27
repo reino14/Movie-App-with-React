@@ -1,2 +1,2 @@
-<h2>A really fun project using react library</h2>
-<img src="./movie-app/preview/home.png" alt="Tampilan App" width="400" />
+<h2>Using API to show the movie lists and react library to make it cool!</h2>
+<img src="./preview/home.png" alt="Tampilan App" width="400" />
